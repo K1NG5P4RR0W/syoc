@@ -1,0 +1,27 @@
+# Environnements
+.env
+.env.*
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs & outputs
+logs/
+*.log
+output/
+results/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests temporaires
+tmp/
