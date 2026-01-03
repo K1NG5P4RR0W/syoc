@@ -125,7 +125,6 @@ SYOC is intended for defensive security and educational purposes only.
 
 ## Author
 
-**Your Name**
 - GitHub: [@K1NG5P4RR0W](https://github.com/K1NG5P4RR0W)
 
 ## Contact
