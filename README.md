@@ -17,31 +17,19 @@ The second phase concentrates on security auditing, scanning for exposed secrets
 
 ## Core Capabilities
 
-### Phase 1: Documentation Analysis
+## Core Capabilities (Vision)
 
-**Structural Analysis**
-- Complete file inventory across the entire project directory
-- Automatic language detection through file extension recognition
-- Framework identification with version verification and hash validation
+SYOC is designed to provide automated analysis of codebases with a strong focus on security, documentation quality, and maintainability.
 
-**Documentation Quality Assessment**
-- Documentation ratio calculation through comment analysis
-- Detection of potentially sensitive information in comments
-- Language-specific documentation improvement recommendations
-- Architectural pattern and model recognition
-- Overall code readability scoring
+The tool aims to:
+- Analyze source code structure and project composition
+- Evaluate documentation quality and coding practices
+- Identify potential security risks and insecure patterns
+- Detect exposed secrets and misconfigurations
+- Provide actionable recommendations to improve code quality and security
 
-### Phase 2: Security Audit
+The exact feature set will evolve progressively as the project matures.
 
-**Configuration Security**
-- Validation of configuration files against established security standards
-- Detection of plaintext secrets and credentials in source code
-- Verification of proper environment variable usage for sensitive data
-
-**Vulnerability Assessment**
-- Identification of compromising comments that may expose security information
-- Dependency scanning for known vulnerabilities in third-party libraries
-- Application-level vulnerability detection and analysis
 
 ## Target Audience
 
