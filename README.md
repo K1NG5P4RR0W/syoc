@@ -1,6 +1,6 @@
 # SYOC - Security Your Own Code
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 ![Status](https://img.shields.io/badge/status-in%20development-yellow.svg)
 
 ## Overview
@@ -71,7 +71,7 @@ SYOC is currently under active development. The tool's roadmap includes several 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/syoc.git
+git clone https://github.com/K1NG5P4RR0W/syoc.git
 
 # Navigate to the project directory
 cd syoc
@@ -98,9 +98,8 @@ syoc scan /path/to/your/project --report report.html
 
 ## Technical Stack
 
-- **Primary Language**:
-- **Code Analysis**:
-- **Vulnerability Databases**: CVE, NVD
+> Technical stack details will be updated as the project matures.
+
 
 ## Contributing
 
@@ -114,11 +113,15 @@ Contributions are welcome. To contribute to SYOC:
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for complete details.
+This project is licensed under the GNU Affero General Public License v3.0. See the `LICENSE` file for complete details.
+Any use of this software over a network must provide access to the corresponding source code.
+
 
 ## Legal Notice
 
 SYOC is provided on an "as is" basis without warranty of any kind, either expressed or implied. Running SYOC against codebases or systems without proper authorization may be illegal in your jurisdiction. Users are solely responsible for ensuring they have appropriate permissions before scanning any code or systems. The SYOC development team accepts no liability for misuse or damage caused by this tool.
+SYOC is intended for defensive security and educational purposes only.
+
 
 ## Author
 
