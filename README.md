@@ -1,11 +1,11 @@
-# SYOC - Security Your Own Code
+# SYOC - Systematic Yield Of Code
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 ![Status](https://img.shields.io/badge/status-in%20development-yellow.svg)
 
 ## Overview
 
-SYOC (Security Your Own Code) is a comprehensive code analysis and audit tool designed to enhance the quality, security, and documentation of software projects. The tool performs systematic scans of codebases to identify security vulnerabilities, documentation gaps, and potential risks before they reach production environments.
+SYOC (Systematic Yield Of Code) is a comprehensive code analysis and audit tool designed to enhance the quality, security, and documentation of software projects. The tool performs systematic scans of codebases to identify security vulnerabilities, documentation gaps, and potential risks before they reach production environments.
 
 ## Project Description
 
